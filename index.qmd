@@ -2,6 +2,7 @@
 title: "Sample Script Code demonstration"
 format: html
 editor: visual
+embed-resources: true
 ---
 
 This code was written to work with flight data.
